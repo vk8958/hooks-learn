@@ -1,3 +1,9 @@
+.table{
+margin-top: 50px; /*this is the thing i gave*/
+}
+.progress{
+ color: #282c34;
+}
 .App {
   text-align: center;
 }
